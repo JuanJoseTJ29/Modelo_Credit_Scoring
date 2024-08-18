@@ -2,7 +2,7 @@
 
 ## Se realizó lo siguiente:
 
-### -Análisis EDA y Feature Engineering
+### - Análisis EDA y Feature Engineering
 ### - Modelo Tradicional - Regresion Logistica
 ### - Modelos de Machine learning : Bagging / Boosting
 ### - Modelo Random Forest Classifier
